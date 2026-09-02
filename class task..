@@ -1,0 +1,16 @@
+student-performance-intelligence/
+│
+├── README.md
+├── student_performance_analysis.ipynb
+├── student_performance_factor.csv
+│
+├── visualisations/
+│   ├── performance_distribution.png
+│   ├── study_hours_vs_performance.png
+│   ├── attendance_vs_performance.png
+│   └── key_factors.png
+│
+├── reports/
+│   └── project_insights.md
+│
+└── .gitignore 
